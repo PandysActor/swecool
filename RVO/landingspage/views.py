@@ -4,6 +4,6 @@ from django.http import HttpResponse
 #Create your views here
 
 def home(request):
-    return render(request, 'home.html')
+    return render(request, 'landingspage.html')
 
 #Hier zet je nog meer views
