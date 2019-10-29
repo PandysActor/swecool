@@ -1,0 +1,36 @@
+<head>
+    <script src='https://api.mapbox.com/mapbox-gl-js/v1.4.1/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v1.4.1/mapbox-gl.css' rel='stylesheet' />
+    <style>
+        body { margin:0; padding:0; }
+        #map { position:absolute; top:0; bottom:0; width:100%; }
+    </style>
+</head>
+
+<body>
+
+<div id='map'></div>
+
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoicGFuZHlzYWN0b3IiLCJhIjoiY2sxYWdwMmlkMTdlcDNubGwzbzhpc3drMSJ9.a1m4P6JEaNBgZcK7qGfJtA';
+
+var map = new mapboxgl.Map({
+container: 'map',
+style: 'mapbox://styles/mapbox/streets-v11',
+center: [5.1893384, 52.1079593],
+zoom: 7,
+minZoom: 7,
+maxZoom: 18,
+});
+
+// Functions to load on map. Used for map layers
+map.on('load', function() {
+});
+//[50.618,3.010,53.814,7.350],
+// Add zoom and rotation controls to the map.
+map.addControl(new mapboxgl.NavigationControl());
+</script>
+
+</body>
+</html>
+
