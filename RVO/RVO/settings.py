@@ -27,6 +27,10 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+STATICFILES_DIRS = [
+        "/spyderprojects/swecool/RVO/static"
+        ]
+
 
 # Application definition
 
