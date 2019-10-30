@@ -1,0 +1,56 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Risicovoorspeller Ongevallen</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css">
+    <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+    <link rel="stylesheet" type="text/css" href="{% static 'landingspage/helper.css' %}">
+
+
+<style>
+.hero {
+    background: white;
+    <!-- black url{"../static/img/hero-1.jpg"} center / cover; -->
+    }
+    
+    @media (max-width: 1024px) { .hero {background: black url{"../static/img/hero-1.jpg"} center / cover; } }
+    @media (max-width: 768px) { .hero {background: black url{"../static/img/hero-1.jpg"} center / cover; } }
+</style>
+
+  </head>
+  <body>
+<!-- .hero -->
+<section class="hero is-fullheight">
+     <!-- .hero-head -->
+    <section class="hero-head">
+         <div class="columns is-mobile is-marginless heading has-text-weight-bold">
+             <div class="column left">
+                 <figure class="navbar-item image" style="width: 6.25rem; height: 1rem;">
+                     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJXN5jQ8HQhHHPOyI3tT-8NvTrVc3g0g2fBr7S_5pXKCO6f0o8">
+                 </figure>
+             </div>
+             <div class="column center desktop">
+                 <p class="navbar-item has-text-black">LINK 1 </p>
+                 <p class="navbar-item has-text-black">LINK 2 </p>
+                 <p class="navbar-item has-text-black">LINK 3 </p>
+                 <p class="navbar-item has-text-black">LINK 4 </p>
+                 <p class="navbar-item has-text-black">LINK 5 </p>
+             </div>
+             <div class="column right">
+                 <p class="navbar-item desktop has-text-black">SHOP </p>
+                 <p class="navbar-item desktop has-text-black">SIGN IN </p>
+                 <figure class="navbar-item image">
+                     <i class="fas fa-bars"></i>
+
+             </div>
+         </div>
+    </section>
+    <!-- /.hero-head -->
+</section>
+<!-- /.hero -->
+
+  </body>
+</html>
