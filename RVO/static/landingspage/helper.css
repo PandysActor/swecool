@@ -1,6 +1,6 @@
 .center, .center-culumn, .top, .right, .bottom, .left {
     display: flex;
-    justify-contect: center;
+    justify-content: center;
     align-items: center
 }
 
@@ -8,10 +8,21 @@
     flex-direction: column;
 }
 
-.top { align-items: flex-start; }
-.right { justify-content: flex-end; }
-.bottom { align-items: flex-end; }
-.left { justify-content: flex-start; }
+.top {
+    align-items: flex-start;
+}
+
+.right {
+    justify-content: flex-end;
+}
+
+.bottom {
+    align-items: flex-end;
+}
+
+.left {
+    justify-content: flex-start;
+}
 
 .single-spaced, .single-spaced * {
     line-height: 1;
@@ -21,4 +32,26 @@
     .desktop {
         display: none;
     }
+}
+
+@media (min-width: 768px) {
+    .mobile {
+        display: none;
+    }
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+a:active {
+    color: white;
+}
+
+a:hover{
+    text-decoration: underline;
 }
