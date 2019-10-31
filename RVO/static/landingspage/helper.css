@@ -40,18 +40,52 @@
     }
 }
 
-a:link {
-    color: black;
-}
 
-a:visited {
-    color: black;
-}
 
-a:active {
-    color: white;
-}
+        /*.hero {*/
+        /*    background: white;*/
 
-a:hover{
-    text-decoration: underline;
-}
+        /*<!--*/
+        /*black url {*/
+        /*"../static/img/hero-1.jpg"*/
+        /*}*/
+
+        /*center*/
+
+        /*/*/
+        /*cover*/
+
+        /*;*/
+        /*-->*/
+        /*}*/
+
+        /*@media (max-width: 1024px) {*/
+        /*    .hero {*/
+
+        /*    background: black url {*/
+        /*    "../static/img/hero-1.jpg"*/
+        /*    }*/
+
+        /*    center*/
+
+        /*/ cover*/
+
+        /*;*/
+        /*}*/
+
+        /*}*/
+        /*@media (max-width: 768px) {*/
+        /*    .hero {*/
+
+        /*    background: black url {*/
+        /*    "../static/img/hero-1.jpg"*/
+        /*    }*/
+
+        /*    center*/
+
+        /*/ cover*/
+
+        /*;*/
+        /*}*/
+
+        /*}*/
