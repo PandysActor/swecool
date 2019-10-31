@@ -14,18 +14,65 @@
 <script>
 mapboxgl.accessToken = 'pk.eyJ1IjoicGFuZHlzYWN0b3IiLCJhIjoiY2sxYWdwMmlkMTdlcDNubGwzbzhpc3drMSJ9.a1m4P6JEaNBgZcK7qGfJtA';
 
+// Set bounds to Netherlands
+var bounds = [
+[3.131274, 50.714977], // Southwest coordinates
+[7.359787, 53.629832]  // Northeast coordinates
+];
+
 var map = new mapboxgl.Map({
-container: 'map',
-style: 'mapbox://styles/mapbox/streets-v11',
-center: [5.1893384, 52.1079593],
-zoom: 7,
-minZoom: 7,
-maxZoom: 18,
+    container: 'map',
+    style: 'mapbox://styles/mapbox/light-v9',
+    center: [5.1893384, 52.1079593],
+    zoom: 7,
+    minZoom: 7,
+    maxZoom: 18,
+    maxBounds: bounds
 });
 
 // Functions to load on map. Used for map layers
-map.on('load', function() {
+map.on('load', function () {
+
+map.addLayer({
+    "id": "route",
+    "type": "line",
+    "source": {
+        "type": "geojson",
+        "data": {
+            ""
+
+        }
+    },
+    "layout": {
+        "line-join": "round",
+        "line-cap": "round"
+    },
+        "paint": {
+        "line-color": "#B744B8",
+        "line-width": 4
+    }
 });
+
+map.on('click', 'route', function (e) {
+new mapboxgl.Popup()
+.setLngLat(e.lngLat)
+.setHTML(e.features[0].properties.fclass)
+.addTo(map);
+});
+
+// Change the cursor to a pointer when the mouse is over the places layer.
+map.on('mouseenter', 'places', function () {
+map.getCanvas().style.cursor = 'pointer';
+});
+
+// Change it back to a pointer when it leaves.
+map.on('mouseleave', 'places', function () {
+map.getCanvas().style.cursor = '';
+});
+
+
+});
+
 //[50.618,3.010,53.814,7.350],
 // Add zoom and rotation controls to the map.
 map.addControl(new mapboxgl.NavigationControl());
