@@ -1,6 +1,70 @@
+{% extends 'base.html' %}
 {% load static %}
 <!DOCTYPE html>
 
-<link rel="stylesheet" type="text/css" href="{% static 'landingspage/style.css' %}">
+{% block content %}
 
-<h1>Hello World!!</h1>
+    <section class="section">
+        <div class="container">
+            <div class="columns" id="landingcards">
+                <div class="column" id="landingcolumn">
+                    <header class="notification is-primary" id="column1">
+                        Updates
+                        <section>Bekijk onze voortgang</section>
+                        <footer>
+                            faff
+                        </footer>
+                    </header>
+                </div>
+                <div class="column is-8" id="landingcolumn">
+                    <header class="notification is-primary" id="column2">
+                        First
+                        <section>Bekijk onze voortgang</section>
+                    </header>
+                </div>
+            </div>
+            <div class="columns" id="landingcards">
+                <div class="column is-8" id="landingcolumn">
+                    <header class="notification is-primary" id="column3">
+                        First
+                        <section>Bekijk onze voortgang</section>
+
+                    </header>
+
+                </div>
+                <div class="column" id="landingcolumn">
+                    <header class="notification is-primary" id="column4">
+                        First
+                        <section>Bekijk onze voortgang</section>
+                        <footer>balbalbab</footer>
+                    </header>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <style>
+        #landingcolumn {
+        display: inline-grid;
+        }
+
+    #column1 {
+        background-image: url("{% static "images/map.jpg" %}");
+
+    }
+    #column2 {
+    background-image: url("");
+
+    }
+    #column3 {
+    background-image: url("");
+
+    }
+    #column4 {
+    background-image: url("");
+
+    }
+
+    </style>
+{% endblock %}
