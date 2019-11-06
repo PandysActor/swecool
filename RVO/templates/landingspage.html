@@ -6,38 +6,33 @@
 
     <section class="section">
         <div class="container">
-            <div class="columns" id="landingcards">
-                <div class="column" id="landingcolumn">
-                    <header class="notification is-primary" id="column1">
-                        Updates
-                        <section>Bekijk onze voortgang</section>
-                        <footer>
-                            faff
-                        </footer>
-                    </header>
+            <div class="columns" id="columnrow1">
+                <div class="column" id="cards">
+                    <section class="notification is-primary" id="card1">
+                        <p>Updates</p>
+                        <p>Bekijk onze voortgang</p>
+                        <p>faff</p>
+                    </section>
                 </div>
-                <div class="column is-8" id="landingcolumn">
-                    <header class="notification is-primary" id="column2">
-                        First
-                        <section>Bekijk onze voortgang</section>
-                    </header>
+                <div class="column is-8" id="cards">
+                    <section class="notification is-primary" id="card2">
+                        <p>Bekijk onze voortgang</p>
+                    </section>
                 </div>
             </div>
-            <div class="columns" id="landingcards">
-                <div class="column is-8" id="landingcolumn">
-                    <header class="notification is-primary" id="column3">
-                        First
-                        <section>Bekijk onze voortgang</section>
-
-                    </header>
-
+            <div class="columns" id="columnrow2">
+                <div class="column is-8" id="cards">
+                    <section class="notification is-primary" id="card3">
+                        <p>hi</p>
+                        <p>Bekijk onze voortgang</p>
+                    </section>
                 </div>
-                <div class="column" id="landingcolumn">
-                    <header class="notification is-primary" id="column4">
-                        First
-                        <section>Bekijk onze voortgang</section>
-                        <footer>balbalbab</footer>
-                    </header>
+                <div class="column" id="cards">
+                    <section class="notification is-primary" id="card4">
+                        <p>First</p>
+                        <p>Bekijk onze voortgang</p>
+                        <p>balbalbab</p>
+                    </section>
 
                 </div>
             </div>
@@ -45,26 +40,58 @@
     </section>
 
     <style>
-        #landingcolumn {
-        display: inline-grid;
+        #cards {
+            display: inline-grid;
         }
 
-    #column1 {
-        background-image: url("{% static "images/map.jpg" %}");
+        #card1 {
+            background-image: url("{% static "images/map.jpg" %}");
 
-    }
-    #column2 {
-    background-image: url("");
+        }
 
-    }
-    #column3 {
-    background-image: url("");
+        #card2 {
+            background-image: url("");
 
-    }
-    #column4 {
-    background-image: url("");
+        }
 
-    }
+        #card3 {
+            background-image: url("");
+
+        }
+
+        #card4 {
+            background-image: url("");
+
+        }
+
+
+
 
     </style>
+
+    <script>
+    const mouseTarget = document.getElementById('card1');
+
+
+    mouseTarget.addEventListener('mouseover', function(event) {
+        event.target.style.color= "purple";
+        
+
+
+    });
+
+    mouseTarget.addEventListener('mouseout', function(event) {
+        event.target.style.color= "white";
+
+
+    });
+
+
+    </script>
+{% endblock %}
+
+{% block scripts %}
+    <!-- block.super will get the content of the block from the parent template -->
+    {{ block.super }}
+    <script src="{% static 'js/main.js' %}"></script>
 {% endblock %}
