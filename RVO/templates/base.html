@@ -1,0 +1,101 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Risicovoorspeller Ongevallen</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css">
+    <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+    <!--Debugger -->
+{#    <link rel="stylesheet" type="text/css" href="{% static 'landingspage/bulma-debug.css' %}">#}
+    <!--/Debugger -->
+    <link rel="stylesheet" type="text/css" href="{% static 'landingspage/helper.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'landingspage/style.css' %}">
+
+</head>
+<body>
+<!-- .hero -->
+<section class="hero is-fullheight">
+    <!-- .hero-head -->
+    <section class="hero-head">
+        <div class="columns is-mobile is-marginless heading has-text-weight-bold">
+            <div class="column left">
+                <figure class="navbar-item image" style="width: 6.25rem; height: 1rem;">
+                    <a href="/"><img
+                            src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJXN5jQ8HQhHHPOyI3tT-8NvTrVc3g0g2fBr7S_5pXKCO6f0o8"
+                            alt="Sweco Logo">
+                    </a>
+                </figure>
+            </div>
+            <div class="column center desktop">
+                <p class="navbar-item has-text-black"><a href="/">LINK 1</a></p>
+                <p class="navbar-item has-text-black"><a href="/">LINK 2</a></p>
+                <p class="navbar-item has-text-black"><a href="/">LINK 3</a></p>
+                <p class="navbar-item has-text-black"><a href="/">LINK 4</a></p>
+                <p class="navbar-item has-text-black"><a href="/">LINK 5</a></p>
+            </div>
+            <div class="column right">
+
+                <div class="navbar-brand">
+                    <a role="button" class="navbar-burger" data-target="burgMenu" aria-label="menu"
+                       aria-expanded="false">
+                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true"></span>
+
+                    </a>
+                    <div class="navbar-menu" id="burgMenu">
+                        <p class="navbar-item desktop has-text-black"><a href="/">MAP</a></p>
+                        <p class="navbar-item desktop has-text-black"><a href="/">SIGN IN</a></p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        {% block content %}
+        {% endblock %}
+    </section>
+    <!-- /.hero-head -->
+</section>
+
+<footer class="footer" style="height: 20px">
+    <div class="content has-text-centered">
+        <p>
+            <strong>RVO</strong> by <a href="https://jgthms.com">Swecool</a>. The source code is licensed.
+        </p>
+    </div>
+</footer>
+<!-- /.hero -->
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+
+        // Get all "navbar-burger" elements
+        const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+
+        // Check if there are any navbar burgers
+        if ($navbarBurgers.length > 0) {
+
+            // Add a click event on each of them
+            $navbarBurgers.forEach(el => {
+                el.addEventListener('click', () => {
+
+                    // Get the target from the "data-target" attribute
+                    const target = el.dataset.target;
+                    const $target = document.getElementById(target);
+
+                    // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+                    el.classList.toggle('is-active');
+                    $target.classList.toggle('is-active');
+
+                });
+            });
+        }
+
+    });
+</script>
+</body>
+
+</html>
+
+
