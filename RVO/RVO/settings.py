@@ -28,7 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = []
 
 STATICFILES_DIRS = [
-        "/spyderprojects/swecool/RVO/static"
+        "/comaker/swecool/RVO/static"
         ]
 
 
