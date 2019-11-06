@@ -40,9 +40,9 @@ map.addLayer({
         "type": "geojson",
         "data": {
             "type": "FeatureCollection",
-            "features": [{
-
-"type": "Feature", "properties": { "osm_id": "319567177", "code": 5141, "fclass": "service", "name": null, "ref": null, "oneway": "B", "maxspeed": 0, "layer": 0, "bridge": "F", "tunnel": "F" }, "geometry": { "type": "LineString", "coordinates": [ [ 5.6968919, 52.4545712 ], [ 5.6966071, 52.4548204 ], [ 5.6966193, 52.4548724 ], [ 5.6965664, 52.4549418 ], [ 5.6964892, 52.4549641 ], [ 5.6963916, 52.4549492 ], [ 5.6963266, 52.4548997 ], [ 5.6963144, 52.4548352 ], [ 5.6963997, 52.4547857 ], [ 5.696477, 52.4547857 ], [ 5.6966071, 52.4548204 ] ] } },
+            "features":
+[
+{"type": "Feature", "properties": { "osm_id": "319567177", "code": 5141, "fclass": "service", "name": null, "ref": null, "oneway": "B", "maxspeed": 0, "layer": 0, "bridge": "F", "tunnel": "F" }, "geometry": { "type": "LineString", "coordinates": [ [ 5.6968919, 52.4545712 ], [ 5.6966071, 52.4548204 ], [ 5.6966193, 52.4548724 ], [ 5.6965664, 52.4549418 ], [ 5.6964892, 52.4549641 ], [ 5.6963916, 52.4549492 ], [ 5.6963266, 52.4548997 ], [ 5.6963144, 52.4548352 ], [ 5.6963997, 52.4547857 ], [ 5.696477, 52.4547857 ], [ 5.6966071, 52.4548204 ] ] } },
 { "type": "Feature", "properties": { "osm_id": "319567178", "code": 5153, "fclass": "footway", "name": null, "ref": null, "oneway": "B", "maxspeed": 0, "layer": 0, "bridge": "F", "tunnel": "F" }, "geometry": { "type": "LineString", "coordinates": [ [ 5.6964892, 52.4549641 ], [ 5.6964282, 52.4550904 ], [ 5.69639, 52.45521 ] ] } },
 { "type": "Feature", "properties": { "osm_id": "319567179", "code": 5124, "fclass": "pedestrian", "name": null, "ref": null, "oneway": "B", "maxspeed": 0, "layer": 0, "bridge": "F", "tunnel": "F" }, "geometry": { "type": "LineString", "coordinates": [ [ 5.6935051, 52.4521248 ], [ 5.693558, 52.4521595 ], [ 5.694225, 52.452536 ], [ 5.6941563, 52.4526525 ] ] } },
 { "type": "Feature", "properties": { "osm_id": "319567180", "code": 5124, "fclass": "pedestrian", "name": null, "ref": null, "oneway": "B", "maxspeed": 0, "layer": 0, "bridge": "F", "tunnel": "F" }, "geometry": { "type": "LineString", "coordinates": [ [ 5.692102, 52.4527671 ], [ 5.6930782, 52.4521124 ], [ 5.6930945, 52.4520356 ], [ 5.69328, 52.45198 ] ] } },
@@ -55,12 +55,9 @@ map.addLayer({
 { "type": "Feature", "properties": { "osm_id": "319758841", "code": 5141, "fclass": "service", "name": null, "ref": null, "oneway": "B", "maxspeed": 0, "layer": 0, "bridge": "F", "tunnel": "F" }, "geometry": { "type": "LineString", "coordinates": [ [ 5.7135735, 52.5207807 ], [ 5.7134353, 52.5207931 ], [ 5.7133824, 52.5208277 ], [ 5.7134398, 52.5211097 ] ] } },
 { "type": "Feature", "properties": { "osm_id": "319758842", "code": 5141, "fclass": "service", "name": null, "ref": null, "oneway": "B", "maxspeed": 0, "layer": 0, "bridge": "F", "tunnel": "F" }, "geometry": { "type": "LineString", "coordinates": [ [ 5.7139914, 52.5210752 ], [ 5.7140532, 52.5214412 ], [ 5.714102, 52.5214931 ] ] } },
 { "type": "Feature", "properties": { "osm_id": "319758843", "code": 5141, "fclass": "service", "name": null, "ref": null, "oneway": "B", "maxspeed": 0, "layer": 0, "bridge": "F", "tunnel": "F" }, "geometry": { "type": "LineString", "coordinates": [ [ 5.7147577, 52.5217299 ], [ 5.7147322, 52.5215921 ], [ 5.7151956, 52.5215649 ] ] } },
-{ "type": "Feature", "properties": { "osm_id": "319758844", "code": 5152, "fclass": "cycleway", "name": null, "ref": null, "oneway": "B", "maxspeed": 0, "layer": 0, "bridge": "F", "tunnel": "F" }, "geometry": { "type": "LineString", "coordinates": [ [ 5.7135718, 52.5227001 ], [ 5.7139841, 52.522678 ] ] }
-
-
-
-            }]
-        }
+{ "type": "Feature", "properties": { "osm_id": "319758844", "code": 5152, "fclass": "cycleway", "name": null, "ref": null, "oneway": "B", "maxspeed": 0, "layer": 0, "bridge": "F", "tunnel": "F" }, "geometry": { "type": "LineString", "coordinates": [ [ 5.7135718, 52.5227001 ], [ 5.7139841, 52.522678 ] ] } }
+]
+  }
     },
     "layout": {
         "line-join": "round",
@@ -99,4 +96,3 @@ map.addControl(new mapboxgl.NavigationControl());
 
 </body>
 </html>
-
