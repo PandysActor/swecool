@@ -9,22 +9,23 @@
             <div class="columns" id="columnrow1">
                 <div class="column" id="cards">
                     <section class="notification is-primary" id="card1">
-                        <p>Updates</p>
-                        <p>Bekijk onze voortgang</p>
-                        <p>faff</p>
-                    </section>
-                </div>
-                <div class="column is-8" id="cards">
-                    <section class="notification is-primary" id="card2">
-                        <p>Bekijk onze voortgang</p>
+                        <p>Map</p>
+                        <p>Klik hier om naar de map te gaan</p>
                     </section>
                 </div>
             </div>
             <div class="columns" id="columnrow2">
-                <div class="column is-8" id="cards">
-                    <section class="notification is-primary" id="card3">
+                <div class="column is-5" id="cards">
+                    <section class="notification is-primary" id="card2">
                         <p>hi</p>
                         <p>Bekijk onze voortgang</p>
+                    </section>
+                </div>
+                <div class="column" id="cards">
+                    <section class="notification is-primary" id="card3">
+                        <p>First</p>
+                        <p>Bekijk onze voortgang</p>
+                        <p>balbalbab</p>
                     </section>
                 </div>
                 <div class="column" id="cards">
@@ -33,7 +34,6 @@
                         <p>Bekijk onze voortgang</p>
                         <p>balbalbab</p>
                     </section>
-
                 </div>
             </div>
         </div>
@@ -44,8 +44,17 @@
             display: inline-grid;
         }
 
+        #card2:hover, #card3:hover, #card4:hover{
+            background-color: black;
+        }
+
         #card1 {
             background-image: url("{% static "images/map.jpg" %}");
+            background-color: white;
+            background-repeat: no-repeat;
+            background-size: cover;
+            color: black;
+            height: 70vh;
 
         }
 
@@ -65,26 +74,18 @@
         }
 
 
-
-
     </style>
 
     <script>
-    const mouseTarget = document.getElementById('card1');
-
-
-    mouseTarget.addEventListener('mouseover', function(event) {
-        event.target.style.color= "purple";
-        
-
-
-    });
-
-    mouseTarget.addEventListener('mouseout', function(event) {
-        event.target.style.color= "white";
-
-
-    });
+    {#let test = document.getElementById("card4");#}
+    {#    test.addEventListener("mouseover", function (event) {#}
+    {#        // highlight the mouseover target#}
+    {#        event.target.style.backgroundColor = "orange";#}
+    {##}
+    {#        // reset the color after a short delay#}
+    {#    }, false);#}
+    {##}
+    {#    //if column = column1, column2, column 3, then#}
 
 
     </script>
