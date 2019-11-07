@@ -15,24 +15,25 @@
                 </div>
             </div>
             <div class="columns" id="columnrow2">
-                <div class="column is-5" id="cards">
+                <div class="column" id="cards">
                     <section class="notification is-primary" id="card2">
-                        <p>hi</p>
-                        <p>Bekijk onze voortgang</p>
+                        <div class="link">
+                            <a href="/test">Klik hier om verder te lezen</a>
+                        </div>
                     </section>
                 </div>
                 <div class="column" id="cards">
                     <section class="notification is-primary" id="card3">
-                        <p>First</p>
-                        <p>Bekijk onze voortgang</p>
-                        <p>balbalbab</p>
+                        <div class="link">
+                            <a href="/test">Klik hier om verder te lezen</a>
+                        </div>
                     </section>
                 </div>
                 <div class="column" id="cards">
                     <section class="notification is-primary" id="card4">
-                        <p>First</p>
-                        <p>Bekijk onze voortgang</p>
-                        <p>balbalbab</p>
+                        <div class="link">
+                            <a href="/test">Klik hier om verder te lezen</a>
+                        </div>
                     </section>
                 </div>
             </div>
@@ -45,7 +46,23 @@
         }
 
         #card2:hover, #card3:hover, #card4:hover{
-            background-color: black;
+            color: #404040 !important;
+            background: none;
+            -webkit-box-shadow: 0px 5px 20px -10px rgba(0,0,0,0.57);
+            -moz-box-shadow: 0px 5px 20px -10px rgba(0,0,0,0.57);
+            transition: all 0.3s ease 0s;
+        }
+
+        #card1:hover{
+            -webkit-box-shadow: 0px 5px 20px -10px rgba(0,0,0,0.57);
+            -moz-box-shadow: 0px 5px 20px -10px rgba(0,0,0,0.57);
+            transition: all 0.3s ease 0s;
+        }
+
+        #card1, #card2, #card3, #card4{
+            background-color: white;
+            color: black;
+            border-radius:0px;
         }
 
         #card1 {
@@ -54,24 +71,15 @@
             background-repeat: no-repeat;
             background-size: cover;
             color: black;
-            height: 70vh;
+            height: 50vh;
 
         }
 
-        #card2 {
-            background-image: url("");
+    body{
+        background-color: #eeeeee;
+    }
 
-        }
 
-        #card3 {
-            background-image: url("");
-
-        }
-
-        #card4 {
-            background-image: url("");
-
-        }
 
 
     </style>
@@ -91,8 +99,4 @@
     </script>
 {% endblock %}
 
-{% block scripts %}
-    <!-- block.super will get the content of the block from the parent template -->
-    {{ block.super }}
-    <script src="{% static 'js/main.js' %}"></script>
-{% endblock %}
+

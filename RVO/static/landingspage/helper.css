@@ -1,4 +1,4 @@
-.center, .center-culumn, .top, .right, .bottom, .left {
+.center, .center-column, .top, .right, .bottom, .left {
     display: flex;
     justify-content: center;
     align-items: center
@@ -39,53 +39,3 @@
         display: none;
     }
 }
-
-
-
-        /*.hero {*/
-        /*    background: white;*/
-
-        /*<!--*/
-        /*black url {*/
-        /*"../static/img/hero-1.jpg"*/
-        /*}*/
-
-        /*center*/
-
-        /*/*/
-        /*cover*/
-
-        /*;*/
-        /*-->*/
-        /*}*/
-
-        /*@media (max-width: 1024px) {*/
-        /*    .hero {*/
-
-        /*    background: black url {*/
-        /*    "../static/img/hero-1.jpg"*/
-        /*    }*/
-
-        /*    center*/
-
-        /*/ cover*/
-
-        /*;*/
-        /*}*/
-
-        /*}*/
-        /*@media (max-width: 768px) {*/
-        /*    .hero {*/
-
-        /*    background: black url {*/
-        /*    "../static/img/hero-1.jpg"*/
-        /*    }*/
-
-        /*    center*/
-
-        /*/ cover*/
-
-        /*;*/
-        /*}*/
-
-        /*}*/

@@ -19,7 +19,7 @@
 <section class="hero is-fullheight">
     <!-- .hero-head -->
     <section class="hero-head">
-        <div class="columns is-mobile is-marginless heading has-text-weight-bold">
+        <div class="columns is-mobile is-marginless heading has-text-weight-bold" id="test">
             <div class="column left">
                 <figure class="navbar-item image" style="width: 6.25rem; height: 1rem;">
                     <a href="https://www.sweco.nl/" target="_blank"><img
@@ -67,11 +67,11 @@
     </div>
 </footer>
 <!-- /.hero -->
-
-
+<!-- Javascript block -->
 {% block scripts %}
-    src="{% static 'js/main.js' %}"
+    <script src="{% static 'js/main.js' %}"></script>
 {% endblock %}
+<!-- /Javascript block -->
 </body>
 
 </html>
