@@ -7,62 +7,75 @@
     <section class="section">
         <div class="container">
             <div class="columns" id="columnrow1">
+
                 <div class="column" id="cards">
-                    <section class="notification is-primary" id="card1">
-                        <p>Map</p>
-                        <p>Klik hier om naar de map te gaan</p>
-                    </section>
+                    <a href="/map" target="_blank">
+                        <section class="notification is-primary" id="card1">
+                            <p>Map</p>
+                            <p>Klik hier om naar de map te gaan</p>
+                        </section>
+                    </a>
                 </div>
+
             </div>
             <div class="columns" id="columnrow2">
-                <div class="column" id="cards">
-                    <section class="notification is-primary" id="card2">
-                        <div class="link">
-                            <a href="/test">Klik hier om verder te lezen</a>
+                <div class="column" id="cards2">
+                    <a href="https://google.nl" target="_blank">
+                        <div>
+                            <img src="https://www.sweco.nl/siteassets/urban-insight/klantuitdaging-energietransitie---480x270px.jpg">
                         </div>
-                    </section>
+                        <section class="notification is-primary" id="card2">
+                            Column 1
+                        </section>
+                    </a>
                 </div>
-                <div class="column" id="cards">
-                    <section class="notification is-primary" id="card3">
-                        <div class="link">
-                            <a href="/test">Klik hier om verder te lezen</a>
+                <div class="column" id="cards2">
+                    <a href="https://google.nl" target="_blank">
+                        <div>
+                            <img src="https://www.sweco.nl/siteassets/urban-insight/klantuitdaging-slimme-mobiliteit---480x270px6.jpg">
                         </div>
-                    </section>
+                        <section class="notification is-primary" id="card3">
+                            Column 2
+                        </section>
+                    </a>
                 </div>
-                <div class="column" id="cards">
-                    <section class="notification is-primary" id="card4">
-                        <div class="link">
-                            <a href="/test">Klik hier om verder te lezen</a>
+                <div class="column" id="cards2">
+                    <a href="https://google.nl" target="_blank">
+                        <div>
+                            <img src="https://www.sweco.nl/siteassets/homepage/block_urban_insight.jpg">
                         </div>
-                    </section>
+                        <section class="notification is-primary" id="card4">
+                            Column 3
+                        </section>
+                    </a>
                 </div>
             </div>
         </div>
     </section>
 
     <style>
-        #cards {
+        #cards, #cards2 {
             display: inline-grid;
         }
 
-        #card2:hover, #card3:hover, #card4:hover{
+        #cards2:hover {
             color: #404040 !important;
             background: none;
-            -webkit-box-shadow: 0px 5px 20px -10px rgba(0,0,0,0.57);
-            -moz-box-shadow: 0px 5px 20px -10px rgba(0,0,0,0.57);
+            -webkit-box-shadow: 0px 5px 20px -10px rgba(0, 0, 0, 0.57);
+            -moz-box-shadow: 0px 5px 20px -10px rgba(0, 0, 0, 0.57);
             transition: all 0.3s ease 0s;
         }
 
-        #card1:hover{
-            -webkit-box-shadow: 0px 5px 20px -10px rgba(0,0,0,0.57);
-            -moz-box-shadow: 0px 5px 20px -10px rgba(0,0,0,0.57);
+        #card1:hover {
+            -webkit-box-shadow: 0px 5px 20px -10px rgba(0, 0, 0, 0.57);
+            -moz-box-shadow: 0px 5px 20px -10px rgba(0, 0, 0, 0.57);
             transition: all 0.3s ease 0s;
         }
 
-        #card1, #card2, #card3, #card4{
+        #card1, #card2, #card3, #card4 {
             background-color: white;
             color: black;
-            border-radius:0px;
+            border-radius: 0px;
         }
 
         #card1 {
@@ -75,25 +88,23 @@
 
         }
 
-    body{
-        background-color: #eeeeee;
-    }
-
-
+        body {
+            background-color: #eeeeee;
+        }
 
 
     </style>
 
     <script>
-    {#let test = document.getElementById("card4");#}
-    {#    test.addEventListener("mouseover", function (event) {#}
-    {#        // highlight the mouseover target#}
-    {#        event.target.style.backgroundColor = "orange";#}
-    {##}
-    {#        // reset the color after a short delay#}
-    {#    }, false);#}
-    {##}
-    {#    //if column = column1, column2, column 3, then#}
+        {#let test = document.getElementById("card4");#}
+        {#    test.addEventListener("mouseover", function (event) {#}
+        {#        // highlight the mouseover target#}
+        {#        event.target.style.backgroundColor = "orange";#}
+        {##}
+        {#        // reset the color after a short delay#}
+        {#    }, false);#}
+        {##}
+        {#    //if column = column1, column2, column 3, then#}
 
 
     </script>
