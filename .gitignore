@@ -6,6 +6,9 @@
 
 MijnPortfolio/MijnPortfolio/Properties/PublishProfiles/*
 
+# RVO excluded data folder to decrease project size
+[Dd]ata/
+
 # User-specific files
 *.suo
 *.user
