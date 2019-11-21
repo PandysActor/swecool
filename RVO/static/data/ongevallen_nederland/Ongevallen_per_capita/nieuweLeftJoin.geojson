@@ -1,0 +1,3999 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "CSV",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Aa en Hunze",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "25598",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "12668",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "12930"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Aalburg",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "12386",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "6214",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "6172"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Aalsmeer",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "26386",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "13108",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "13278"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Aalten",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "27568",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "13807",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "13761"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Achtkarspelen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "28088",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "14235",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "13853"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Alblasserdam",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "18718",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "9118",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "9600"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Albrandswaard",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "22453",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "11209",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "11244"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Alkmaar",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "93876",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "46144",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "47732"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Almelo",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "72287",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "35904",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "36383"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Almere",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "183270",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "90847",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "92423"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Alphen aan den Rijn",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "71658",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "35319",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "36339"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Alphen-Chaam",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "9455",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "4807",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "4648"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Ameland",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "3456",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "1748",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "1708"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Amersfoort",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "141211",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "69162",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "72049"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Amstelveen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "78980",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "37615",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "41365"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Amsterdam",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "747093",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "367509",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "379584"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Apeldoorn",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "155108",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "76185",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "78923"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Appingedam",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "12131",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "5868",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "6263"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Arnhem",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "143582",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "71065",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "72517"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Assen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "65487",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "31986",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "33501"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Asten",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "16392",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "8377",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "8015"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Baarle-Nassau",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "6664",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "3389",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "3275"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Baarn",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "24406",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "11711",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "12695"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Barendrecht",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "44962",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "22215",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "22747"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Barneveld",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "51486",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "25612",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "25874"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Bedum",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "10550",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "5303",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "5247"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Beemster",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "8474",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "4261",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "4213"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Beesel",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "13643",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "6844",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "6799"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Berg en Dal",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Bergeijk",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "18099",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "9149",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "8950"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Bergen op Zoom",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "65242",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "32175",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "33067"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Berkelland",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "45150",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "22756",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "22394"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Bernheze",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "29663",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "14968",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "14695"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Best",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "29089",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "14541",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "14548"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Beuningen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "25321",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "12691",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "12630"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Beverwijk",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "37347",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "18357",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "18990"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "De Bilt",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "41998",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "19913",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "22085"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Binnenmaas",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "28797",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "14308",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "14489"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Bladel",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "19114",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "9700",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "9414"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Blaricum",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "9036",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "4358",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "4678"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Bloemendaal",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "16873",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "7930",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "8943"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Bodegraven-Reeuwijk",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Boekel",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "9646",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "4929",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "4717"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Ten Boer",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "7276",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "3655",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "3621"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Borger-Odoorn",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "26201",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "13068",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "13133"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Borne",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "20764",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "10325",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "10439"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Borsele",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "22531",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "11424",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "11107"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Boxmeer",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "28635",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "14267",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "14368"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Boxtel",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "30241",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "14988",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "15253"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Breda",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "170960",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "83158",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "87802"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Brielle",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "15762",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "7812",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "7950"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Bronckhorst",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "37833",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "18765",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "19068"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Brummen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "21200",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "10485",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "10715"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Brunssum",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "29742",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "14448",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "15294"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Bunnik",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "14258",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "7041",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "7217"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Bunschoten",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "19611",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "9858",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "9753"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Buren",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "25727",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "12894",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "12833"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Capelle aan den IJssel",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "65022",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "31407",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "33615"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Castricum",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "34705",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "16963",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "17742"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Coevorden",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "35993",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "17929",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "18064"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Cranendonck",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "20263",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "10256",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "10007"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Cromstrijen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "12853",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "6389",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "6464"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Cuijk",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "24226",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "12201",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "12025"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Culemborg",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "27298",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "13540",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "13758"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Dalfsen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "26735",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "13591",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "13144"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Dantumadiel",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Delft",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "96168",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "50416",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "45752"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Delfzijl",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "27314",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "13678",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "13636"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Deurne",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "31643",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "15906",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "15737"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Deventer",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "97342",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "48021",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "49321"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Diemen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "24046",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "11718",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "12328"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Dinkelland",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "26116",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "13275",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "12841"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Doesburg",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "11567",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "5703",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "5864"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Doetinchem",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "56253",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "27819",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "28434"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Dongen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "25442",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "12680",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "12762"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Dongeradeel",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "24694",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "12374",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "12320"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Dordrecht",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "118182",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "57965",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "60217"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Drechterland",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "18818",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "9587",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "9231"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Drimmelen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "26623",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "13311",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "13312"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Dronten",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "38528",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "19569",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "18959"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Druten",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "18082",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "8977",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "9105"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Duiven",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "25560",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "12502",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "13058"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Echt-Susteren",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "32172",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "16069",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "16103"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Edam-Volendam",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "28448",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "14284",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "14164"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Ede",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "107686",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "52802",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "54884"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Eemnes",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "8964",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "4433",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "4531"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Eemsmond",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "16542",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "8429",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "8113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Eersel",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "18072",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "9193",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "8879"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Eijsden-Margraten",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Eindhoven",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "210333",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "106456",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "103877"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Elburg",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "22231",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "10984",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "11247"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Emmen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "109151",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "53917",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "55234"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Enkhuizen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "17804",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "8854",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "8950"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Enschede",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "154753",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "78633",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "76120"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Epe",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "32970",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "16213",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "16757"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Ermelo",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "26270",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "12901",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "13369"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Etten-Leur",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "40435",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "20018",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "20417"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Ferwerderadiel",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "8865",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "4555",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "4310"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "De Fryske Marren",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Geertruidenberg",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "20742",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "10344",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "10398"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Geldermalsen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "26285",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "13016",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "13269"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Geldrop-Mierlo",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "37982",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "18777",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "19205"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Gemert-Bakel",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "28103",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "14253",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "13850"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Gennep",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "16890",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "8635",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "8255"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Giessenlanden",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "14422",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "7284",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "7138"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Gilze en Rijen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "25644",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "12983",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "12661"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Goeree-Overflakkee",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Goes",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "36706",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "17888",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "18818"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Goirle",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "22319",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "11087",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "11232"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Gooise Meren",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Gorinchem",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "34472",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "16980",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "17492"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Gouda",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "70857",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "34612",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "36245"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Grave",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "12717",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "6480",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "6237"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Grootegast",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "12208",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "6233",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "5975"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Gulpen-Wittem",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "14712",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "7399",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "7313"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Haaksbergen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "24378",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "12273",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "12105"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Haaren",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "13769",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "7003",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "6766"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Haarlem",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "147640",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "71700",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "75940"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Haarlemmermeer",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "140648",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "69956",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "70692"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Halderberge",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "29488",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "14699",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "14789"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Hardenberg",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "58207",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "29443",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "28764"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Harderwijk",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "42333",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "20863",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "21470"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Hardinxveld-Giessendam",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "17604",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "8716",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "8888"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Haren",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "18706",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "8792",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "9914"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Harlingen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "15567",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "7770",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "7797"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Hattem",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "11657",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "5672",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "5985"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Heemskerk",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "38381",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "18763",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "19618"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Heemstede",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "25626",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "12024",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "13602"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Heerde",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "18212",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "9008",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "9204"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Heerenveen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "43027",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "21051",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "21976"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Heerhugowaard",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "50390",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "25411",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "24979"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Heerlen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "89671",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "44072",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "45599"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Heeze-Leende",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "15133",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "7647",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "7486"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Heiloo",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "22024",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "10838",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "11186"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Den Helder",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "57795",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "28598",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "29197"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Hellendoorn",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "36059",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "18053",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "18006"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Hellevoetsluis",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "39620",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "19665",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "19955"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Helmond",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "86767",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "43471",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "43296"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Hendrik-Ido-Ambacht",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "24854",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "12226",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "12628"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "'s-Hertogenbosch",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "136481",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "67047",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "69434"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Heumen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "16628",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "8255",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "8373"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Heusden",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "42942",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "21633",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "21309"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Hillegom",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "20348",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "10052",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "10296"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Hilvarenbeek",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "15107",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "7663",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "7444"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Hilversum",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "83815",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "40620",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "43195"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Hof van Twente",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "35181",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "17440",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "17741"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Hollands Kroon",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Hoogeveen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "54468",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "27016",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "27452"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Hoorn",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "68696",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "33787",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "34909"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Horst aan de Maas",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "28975",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "14592",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "14383"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Houten",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "46475",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "22936",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "23539"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Huizen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "41880",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "20321",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "21559"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Hulst",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "27944",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "13940",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "14004"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "IJsselstein",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "34059",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "16676",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "17383"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Kaag en Braassem",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Kampen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "49385",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "24450",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "24935"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Kapelle",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "12047",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "5978",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "6069"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Katwijk",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "61180",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "30415",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "30765"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Kerkrade",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "48334",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "23986",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "24348"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Koggenland",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "21495",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "10835",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "10660"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Korendijk",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "10934",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "5471",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "5463"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Krimpen aan den IJssel",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "28807",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "14083",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "14724"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Krimpenerwaard",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Laarbeek",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "21783",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "10997",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "10786"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Landerd",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "14796",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "7559",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "7237"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Landgraaf",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "38748",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "19103",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "19645"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Landsmeer",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "10173",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "4923",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "5250"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Langedijk",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "26047",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "12980",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "13067"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Lansingerland",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "49411",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "24691",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "24720"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Leek",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "19289",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "9561",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "9728"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Leerdam",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "20624",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "10136",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "10488"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Leeuwarden",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "92864",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "45440",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "47424"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Leiden",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "116878",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "56937",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "59941"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Leiderdorp",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "26376",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "12803",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "13573"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Leidschendam-Voorburg",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "72862",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "34797",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "38065"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Lelystad",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "73063",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "36375",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "36688"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Lemsterland",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "13430",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "6847",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "6583"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Leudal",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "36744",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "18472",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "18272"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Leusden",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "28540",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "14044",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "14496"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Lingewaal",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "10916",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "5474",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "5442"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Lingewaard",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "44617",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "22178",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "22439"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Lisse",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "22131",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "10896",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "11235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Lochem",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "33045",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "16161",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "16884"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Loon op Zand",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "22885",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "11338",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "11547"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Lopik",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "14047",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "7154",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "6893"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Loppersum",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "10702",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "5408",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "5294"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Losser",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "22492",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "11256",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "11236"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Maasdriel",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "23631",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "11906",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "11725"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Maasgouw",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "24545",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "12268",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "12277"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Maassluis",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "31394",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "15365",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "16029"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Maastricht",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "118004",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "56631",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "61373"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "De Marne",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "10696",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "5420",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "5276"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Marum",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "10218",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "5272",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "4946"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Medemblik",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "26682",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "13493",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "13189"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Meerssen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "19744",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "9728",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "10016"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Meierijstad",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Meppel",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "31536",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "15310",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "16226"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Midden-Delfland",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "17451",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "8907",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "8544"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Midden-Drenthe",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "33587",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "16776",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "16811"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Midden-Groningen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Moerdijk",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "36724",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "18320",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "18404"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Molenwaard",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Montferland",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "34995",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "17508",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "17487"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Montfoort",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "13493",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "6748",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "6745"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Mook en Middelaar",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "8084",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "4027",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "4057"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Neder-Betuwe",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "22424",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "11122",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "11302"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Nederweert",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "16665",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "8446",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "8219"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Neerijnen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "11851",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "5994",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "5857"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Nieuwegein",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "61087",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "30271",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "30816"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Nieuwkoop",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "26777",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "13542",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "13235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Nijkerk",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "38982",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "19422",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "19560"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Nijmegen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "161251",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "77068",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "84183"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Nissewaard",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Noordenveld",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "31253",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "15471",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "15782"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Noordoostpolder",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "45716",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "23077",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "22639"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Noordwijk",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "24906",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "12525",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "12381"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Noordwijkerhout",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "15399",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "7743",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "7656"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Nunspeet",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "26567",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "13060",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "13507"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Nuth",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "15851",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "7821",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "8030"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Oegstgeest",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "22367",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "10762",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "11605"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Oirschot",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "17855",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "9062",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "8793"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Oisterwijk",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "25743",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "12665",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "13078"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Oldambt",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Oldebroek",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "22771",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "11527",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "11244"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Oldenzaal",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "31584",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "15720",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "15864"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Olst-Wijhe",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "17334",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "8736",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "8598"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Ommen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "17419",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "8707",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "8712"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Onderbanken",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "8240",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "4115",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "4125"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Oost Gelre",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "29873",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "15168",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "14705"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Oosterhout",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "53785",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "26540",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "27245"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Ooststellingwerf",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "26398",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "13202",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "13196"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Oostzaan",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "9205",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "4488",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "4717"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Opmeer",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "11244",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "5657",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "5587"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Opsterland",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "29703",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "14880",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "14823"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Oss",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "76732",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "38278",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "38454"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Oud-Beijerland",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "23824",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "11689",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "12135"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Oude IJsselstreek",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "39905",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "19878",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "20027"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Ouder-Amstel",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "13046",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "6341",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "6705"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Oudewater",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "9917",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "4883",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "5034"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Overbetuwe",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "44226",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "21967",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "22259"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Papendrecht",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "31573",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "15501",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "16072"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Peel en Maas",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Pekela",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "13262",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "6704",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "6558"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Pijnacker-Nootdorp",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "43762",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "21911",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "21851"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Purmerend",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "78434",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "38267",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "40167"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Putten",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "23183",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "11413",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "11770"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Raalte",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "37030",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "18514",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "18516"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Reimerswaal",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "21296",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "10712",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "10584"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Renkum",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "31719",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "15238",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "16481"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Renswoude",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "4482",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "2218",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "2264"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Reusel-De Mierden",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "12384",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "6308",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "6076"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Rheden",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "43763",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "21117",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "22646"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Rhenen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "18779",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "9293",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "9486"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Ridderkerk",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "44689",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "21770",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "22919"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Rijssen-Holten",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "36667",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "18186",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "18481"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Roerdalen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "21142",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "10576",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "10566"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Roermond",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "54446",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "26741",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "27705"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "De Ronde Venen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "34569",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "17256",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "17313"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Roosendaal",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "77277",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "38144",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "39133"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Rotterdam",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "582951",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "285313",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "297638"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Rozendaal",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "1511",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "743",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "768"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Rucphen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "22473",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "11252",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "11221"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Schagen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "19064",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "9335",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "9729"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Scherpenzeel",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "9037",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "4494",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "4543"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Schiedam",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "74947",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "36778",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "38169"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Schiermonnikoog",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "951",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "473",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "478"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Schinnen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "13418",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "6729",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "6689"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Schouwen-Duiveland",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "33994",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "16753",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "17241"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Simpelveld",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "11206",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "5543",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "5663"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Sint Anthonis",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "11789",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "6041",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "5748"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Sint-Michielsgestel",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "28100",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "14096",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "14004"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Sittard-Geleen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "95691",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "46947",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "48744"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Sliedrecht",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "23765",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "11589",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "12176"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Smallingerland",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "54962",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "27219",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "27743"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Soest",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "45560",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "22184",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "23376"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Someren",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "18211",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "9262",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "8949"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Son en Breugel",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "15448",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "7646",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "7802"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Stadskanaal",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "33817",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "16708",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "17109"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Staphorst",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "15973",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "8215",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "7758"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Stede Broec",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "21372",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "10787",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "10585"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Steenbergen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "23211",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "11648",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "11563"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Steenwijkerland",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "43282",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "21624",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "21658"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Stichtse Vecht",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Strijen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "9055",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "4524",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "4531"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Terneuzen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "55155",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "27384",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "27771"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Terschelling",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "4705",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "2472",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "2233"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Texel",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "13547",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "6714",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "6833"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Teylingen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "35308",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "17646",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "17662"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Tholen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "25264",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "12667",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "12597"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Tiel",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "41132",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "20390",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "20742"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Tilburg",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "202091",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "100214",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "101877"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Tubbergen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "20797",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "10535",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "10262"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Twenterand",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "33461",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "16895",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "16566"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Tynaarlo",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "31974",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "15658",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "16316"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Tytsjerksteradiel",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "32243",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "16161",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "16082"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Uden",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "40126",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "20035",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "20091"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Uitgeest",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "12205",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "6135",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "6070"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Uithoorn",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "27501",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "13542",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "13959"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Urk",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "17825",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "8987",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "8838"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Utrechtse Heuvelrug",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "48979",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "23695",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "25284"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Vaals",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "9838",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "4871",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "4967"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Valkenburg aan de Geul",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "17099",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "8469",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "8630"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Valkenswaard",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "30867",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "15219",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "15648"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Veendam",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "28058",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "13861",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "14197"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Veenendaal",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "61769",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "30303",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "31466"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Veere",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "21998",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "11035",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "10963"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Veldhoven",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "43056",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "21528",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "21528"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Velsen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "67556",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "33363",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "34193"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Venlo",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "91872",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "45491",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "46381"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Venray",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "39100",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "19738",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "19362"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Vianen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "19637",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "9698",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "9939"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Vlaardingen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "70860",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "34470",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "36390"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Vlieland",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "1124",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "544",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "580"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Vlissingen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "44798",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "22308",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "22490"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Voerendaal",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "12757",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "6366",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "6391"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Voorschoten",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "22861",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "10955",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "11906"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Voorst",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "23660",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "11808",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "11852"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Vught",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "25337",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "12573",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "12764"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Waadhoeke",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Waalre",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "16695",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "8208",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "8487"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Waalwijk",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "45641",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "22678",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "22963"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Waddinxveen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "25638",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "12724",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "12914"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Wageningen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "36215",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "17779",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "18436"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Wassenaar",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "25763",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "12261",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "13502"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Waterland",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "17026",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "8480",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "8546"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Weert",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "48305",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "24197",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "24108"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Weesp",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "17575",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "8536",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "9039"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Werkendam",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "26415",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "13211",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "13204"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "West Maas en Waal",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "18320",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "9155",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "9165"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Westerveld",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "19333",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "9615",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "9718"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Westervoort",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "15478",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "7678",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "7800"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Westerwolde",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Westland",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "99299",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "49531",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "49768"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Weststellingwerf",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "25674",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "12851",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "12823"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Westvoorne",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "14084",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "6944",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "7140"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Wierden",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "23365",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "11725",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "11640"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Wijchen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "39660",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "19617",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "20043"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Wijdemeren",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "23432",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "11467",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "11965"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Wijk bij Duurstede",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "23306",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "11532",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "11774"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Winsum",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "13925",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "6908",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "7017"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Winterswijk",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "29182",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "14520",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "14662"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Woensdrecht",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "21637",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "10838",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "10799"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Woerden",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "48383",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "23883",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "24500"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "De Wolden",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "23554",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "11795",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "11759"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Wormerland",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "15901",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "7941",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "7960"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Woudenberg",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "11592",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "5796",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "5796"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Woudrichem",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "14421",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "7231",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "7190"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Zaanstad",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "142863",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "70457",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "72406"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Zaltbommel",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "26185",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "13040",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "13145"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Zandvoort",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "16665",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "7979",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "8686"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Zederik",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "13389",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "6652",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "6737"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Zeewolde",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "20286",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "10316",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "9970"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Zeist",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "60488",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "29090",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "31398"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Zevenaar",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "31816",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "15655",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "16161"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Zoetermeer",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "119504",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "58586",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "60918"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Zoeterwoude",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "8303",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "4139",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "4164"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Zuidhorn",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "18374",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "9170",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "9204"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Zuidplas",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Zundert",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "20947",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "10671",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "10276"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Zutphen",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "46762",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "22809",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "23953"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Zwartewaterland",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "21930",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "11089",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "10841"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Zwijndrecht",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "44472",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "21663",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "22809"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"Perioden" : "2008",
+				"Regio's" : "Zwolle",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Totale bevolking (aantal)" : "116365",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Mannen (aantal)" : "56592",
+				"Bevolking/Bevolkingssamenstelling op 1 januari/Geslacht/Vrouwen (aantal)" : "59773"
+			}
+		}
+	]
+}
