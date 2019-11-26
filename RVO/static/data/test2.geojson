@@ -1,5 +1,9 @@
 {
-	"type" : "Feature",
+	"type" : "FeatureCollection",
+	"name" : "ongevallen_nederland_2008_2017",
+	"features" : [
+		{
+			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
 				"coordinates" : [ 5.2964515884, 51.560273338 ]
