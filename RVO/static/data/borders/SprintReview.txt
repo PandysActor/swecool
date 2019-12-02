@@ -1,0 +1,38 @@
+Demi
+- Change Admin Page Title
+- Password reset via email
+- Onderzoeksrapport checken
+- Cards (Columns landingspagina) linken naar dingen van belang
+- Weekrapport checken
+
+Sam
+- Onderzoeksrapport
+- Opmaak feedback (Vragen over opmaak gaan naar Sam)
+
+Stan
+- Spatial Database Maybe?
+- Kaartlaag selecteren
+
+Yashvir
+- Inwoners per 1000 ipv pp
+- Gemeente benaming aanpassen
+- Colour Scale
+- 2e Kaartlaag (met nieuwe data)
+
+
+
+Unknown
+- Handleiding
+	- Standaard gebruikt van website
+
+		- Kaartlagen
+		- Verklaring kaartlaagdata (Waar komt de data vandaan & Wat wordt er berekend)
+	- Overdracht
+		- Admin
+		- Step-by-step?
+		- Programmeurs
+
+
+- Kaartlagen naar database (Spatial)
+- Code commenten (Is voor de It-bastards)
+- Bronnen weergeven per kaartlaag
